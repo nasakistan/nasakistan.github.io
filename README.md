@@ -1,3 +1,5 @@
+---
+
 # 🌌 Zinrã | Void Room Portfolio
 
 **Desenvolvedor Full-Stack | Especialista em RPA | Embaixador Estudantil @Google**
@@ -23,6 +25,12 @@ Tenho quase 3 anos de experiência sólida em RPA (Robotic Process Automation) e
 | **Banco de Dados** | MongoDB |
 | **Inteligência Artificial** | Integração de APIs de IA, Machine Learning para IDP |
 | **Sistemas & Outros** | Linux, Windows, Web Scraping (Cheerio) |
+
+---
+
+## 💼 Experiência Profissional
+
+Nenhuma relevante na área da Tecnologia XD
 
 ---
 
