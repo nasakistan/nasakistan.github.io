@@ -1,5 +1,3 @@
----
-
 # 🌌 Zinrã | Void Room Portfolio
 
 **Desenvolvedor Full-Stack | Especialista em RPA | Embaixador Estudantil @Google**
