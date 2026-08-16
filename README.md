@@ -58,9 +58,9 @@ Nenhuma relevante na área da Tecnologia XD
 
 ## 🌐 Conecte-se Comigo
 
-* 💼 **LinkedIn:** [linkedin.com/in/zinrasalvino](https://www.google.com/search?q=https://linkedin.com/in/zinrasalvino)
-* 🐙 **GitHub:** [github.com/nasakistan](https://www.google.com/search?q=https://github.com/nasakistan)
-* 📸 **Instagram:** [instagram.com/nasaksitan](https://www.google.com/search?q=https://instagram.com/nasaksitan)
+* 💼 **LinkedIn:** [Zinrã Salvino](https://www.google.com/search?q=https://linkedin.com/in/zinrasalvino)
+* 🐙 **GitHub:** [nasakistan](https://www.google.com/search?q=https://github.com/nasakistan)
+* 📸 **Instagram:** [nasaksitan](https://www.google.com/search?q=https://instagram.com/nasaksitan)
 
 ---
 
