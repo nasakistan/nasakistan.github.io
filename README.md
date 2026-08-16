@@ -1,6 +1,6 @@
 ---
 
-🌌 Zinrã | Void Room Portfolio
+# 🌌 Zinrã | Void Room Portfolio
 
 **Desenvolvedor Full-Stack | Especialista em RPA | Embaixador Estudantil @Google**
 📍 Rio de Janeiro, Brasil
